@@ -1,0 +1,6 @@
+title: Standing Room Views
+description: "Baseball, quick hits, in-depth analysis, and personal essays — a blog by Youssef, cached from Wix."
+plugins:
+  - jekyll-feed
+show_excerpts: true
+permalink: /:year/:month/:day/:title/
