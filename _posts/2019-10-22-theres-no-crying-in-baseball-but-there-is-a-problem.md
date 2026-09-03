@@ -5,7 +5,7 @@ date: 2019-10-22 00:00:00 -0700
 categories: ["Personal Essays"]
 ---
 
-![There is a distinct gloom settling in over the high-arching roof of Minute Maid Park and the World Series (Photo: USA Today)](/assets/images/2019-10-22-theres-no-crying-in-baseball-but-there-is-a-problem/01.jpg)
+![There is a distinct gloom settling in over the high-arching roof of Minute Maid Park and the World Series (Photo: USA Today)]({{ site.baseurl }}/assets/images/2019-10-22-theres-no-crying-in-baseball-but-there-is-a-problem/01.jpg)
 
 *There is a distinct gloom settling in over the high-arching roof of Minute Maid Park and the World Series (Photo: USA Today)*
 Some eight months after pitchers and catchers reported to sunny climes in Arizona and Florida, we have arrived at probably the best two-week stretch in sports all year. Game 1 of the World Series coincides with NBA opening night, just a couple of slapshots removed from the NHL's first game, and right after another scintillating Patriots-Jets Monday Night Football thriller (the game was over before it started).

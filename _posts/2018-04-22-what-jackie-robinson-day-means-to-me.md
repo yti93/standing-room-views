@@ -5,7 +5,7 @@ date: 2018-04-22 00:00:00 -0700
 categories: ["Personal Essays"]
 ---
 
-![Jackie Robinson/KLRU-TV, Austin PBS](/assets/images/2018-04-22-what-jackie-robinson-day-means-to-me/01.jpg)
+![Jackie Robinson/KLRU-TV, Austin PBS]({{ site.baseurl }}/assets/images/2018-04-22-what-jackie-robinson-day-means-to-me/01.jpg)
 
 *Jackie Robinson/KLRU-TV, Austin PBS*
 I have played baseball for most of my life. Youth leagues in Chicago, international school leagues in Abu Dhabi, and rec league adult softball in Portland. I have had great teammates along the way, from familiar faces, to strangers who became friends, and I have learned to trust in them and work in concert towards success. My teammates became my brothers over countless seasons, but my greatest champions in life are my mom and dad. They are first-generation immigrants from Egypt, and as is the case for most Arab-Americans, did not have much of an interest in a sport that was not soccer.

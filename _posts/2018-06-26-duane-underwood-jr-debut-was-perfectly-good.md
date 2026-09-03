@@ -5,7 +5,7 @@ date: 2018-06-26 00:00:00 -0700
 categories: ["Quick Hits"]
 ---
 
-![Duane exhales after a long, but scoreless first./Cubs Insider](/assets/images/2018-06-26-duane-underwood-jr-debut-was-perfectly-good/01.jpg)
+![Duane exhales after a long, but scoreless first./Cubs Insider]({{ site.baseurl }}/assets/images/2018-06-26-duane-underwood-jr-debut-was-perfectly-good/01.jpg)
 
 *Duane exhales after a long, but scoreless first./Cubs Insider*
 Bottom 1 –

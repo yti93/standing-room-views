@@ -5,7 +5,7 @@ date: 2019-10-04 00:00:00 -0700
 categories: ["Quick Hits"]
 ---
 
-![Soto-mania > Sotomayor in DC (Credit: Milwaukee Journal Sentinel)](/assets/images/2019-10-04-wild-card-mayhem/01.jpg)
+![Soto-mania > Sotomayor in DC (Credit: Milwaukee Journal Sentinel)]({{ site.baseurl }}/assets/images/2019-10-04-wild-card-mayhem/01.jpg)
 
 *Soto-mania > Sotomayor in DC (Credit: Milwaukee Journal Sentinel)*
 I felt pretty good about going 2-2 in my Wild Card predictions (editors note: written before the Cardinals and Dodgers won their respective games last night), so let's see how our Division Series matchups and predictions stack up.

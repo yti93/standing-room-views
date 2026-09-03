@@ -5,7 +5,7 @@ date: 2018-04-24 00:00:00 -0700
 categories: ["In-Depth Analysis"]
 ---
 
-![Carl Edwards Jr. looks poised to have another big year./Fakepigskin.com](/assets/images/2018-04-24-carl-edwards-jr-is-getting-even-better/01.jpg)
+![Carl Edwards Jr. looks poised to have another big year./Fakepigskin.com]({{ site.baseurl }}/assets/images/2018-04-24-carl-edwards-jr-is-getting-even-better/01.jpg)
 *Carl Edwards Jr. looks poised to have another big year./Fakepigskin.com*
 
 Carl Edwards Jr. has always had plus stuff, but control issues and streakiness have held him back from taking over the closer's job for Joe Maddon's North Side contingent. In year 4 of his career, there have been very encouraging signs that he is putting it all together to dominate.
@@ -16,7 +16,7 @@ There were two reasons why the Cubs converted Edwards into a reliever – his en
 
 As bullpen roles evolved over the last couple years, CJ has gotten stretched out a la Andrew Miller, although not quite to the extent of the rubber-armed Indians fireman. Over his first 10 appearances last year, he went less than one inning three times, with only one appearance of over an inning. To begin 2018, he's pitched at least one inning in every appearance, with one outing of over 3 outs. He's also thrown 50% more pitches and had shorter rest, going 1.6 days of rest in between outings compared to 1.9 days of rest last season.
 
-![A look at Carl Edwards Jr.'s first 10 appearances, 2017 vs. 2018.](/assets/images/2018-04-24-carl-edwards-jr-is-getting-even-better/02.jpg)
+![A look at Carl Edwards Jr.'s first 10 appearances, 2017 vs. 2018.]({{ site.baseurl }}/assets/images/2018-04-24-carl-edwards-jr-is-getting-even-better/02.jpg)
 *A look at Carl Edwards Jr.'s first 10 appearances, 2017 vs. 2018.*
 
 Let's take a look at some of his statistics too. While his ERA was perfect through 10 innings last year, he's given up an earned run this year. The underlying numbers are almost identical to last year, but there's one major discrepancy. He's been substantially unluckier this year – his BABIP is three times as high as it was last year, suggesting that he'll normalize throughout the course of the season and improve on his luck. BABIP is prone to fluctuations in the early going and Edwards' ability to induce weak contact will help bring it down.

@@ -4,7 +4,7 @@ title: "A Retrospective on 2019"
 date: 2019-11-05 00:00:00 -0700
 categories: ["Quick Hits", "Personal Essays"]
 ---
-![A Retrospective on 2019](/assets/images/2019-11-05-a-retrospective-on-2019/01.jpg)
+![A Retrospective on 2019]({{ site.baseurl }}/assets/images/2019-11-05-a-retrospective-on-2019/01.jpg)
 
 I don't know what to write about now that the season is over.
 

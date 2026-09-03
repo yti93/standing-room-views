@@ -5,7 +5,7 @@ date: 2018-04-26 00:00:00 -0700
 categories: ["Quick Hits"]
 ---
 
-![Teoscar Hernandez is arguably hitting the ball harder than anyone. Chris Young/CP](/assets/images/2018-04-26-the-barreled-balls-leaderboard-to-start-2018-is-wacky-and-a-lot-of-fun/01.jpg)
+![Teoscar Hernandez is arguably hitting the ball harder than anyone. Chris Young/CP]({{ site.baseurl }}/assets/images/2018-04-26-the-barreled-balls-leaderboard-to-start-2018-is-wacky-and-a-lot-of-fun/01.jpg)
 
 *Teoscar Hernandez is arguably hitting the ball harder than anyone. Chris Young/CP*
 One of the newest additions to Statcast's many measurements is Barreled Balls. It's a fun way to describe how many hitters catch the ball with the fat part of their bat. Usually, that translates to hitting the ball both very fast and very far - a barreled ball is defined by a high probability batting average and slugging percentage well above MVP-level production (.500 BA, 1.500 slugging). It's April 25th, so admittedly the leaderboard could look very different in a couple months, but let's have some fun, shall we? (All players discussed below meet the minimum Batted Ball Events requirement of 25).

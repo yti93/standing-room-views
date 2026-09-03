@@ -5,7 +5,7 @@ date: 2019-10-01 00:00:00 -0700
 categories: ["Quick Hits"]
 ---
 
-![October Madness (Credit: CBS Sports)](/assets/images/2019-10-01-one-sentence-for-the-playoffs/01.jpg)
+![October Madness (Credit: CBS Sports)]({{ site.baseurl }}/assets/images/2019-10-01-one-sentence-for-the-playoffs/01.jpg)
 
 *October Madness (Credit: CBS Sports)*
 To keep up with blogging, I'm going to predict the playoffs and re-evaluate after every round. These are quick hits people.

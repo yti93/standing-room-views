@@ -16,7 +16,7 @@ Honorable mentions include: Whenever I see the Cubs play in a new ballpark, the 
 
 Jake Arrieta's No-Hitter - August 30th, 2015.
 
-![the Beard and I at Second City Comedy Club, May 2016.](/assets/images/2018-05-10-an-oral-history-of-my-favorite-baseball-games-part-i/01.jpg)
+![the Beard and I at Second City Comedy Club, May 2016.]({{ site.baseurl }}/assets/images/2018-05-10-an-oral-history-of-my-favorite-baseball-games-part-i/01.jpg)
 *the Beard and I at Second City Comedy Club, May 2016.*
 
 The Cubs got no-hit by Cole Hamels and the Phillies right after the All-Star Break in 2015, were hovering around .500, and the postseason didn't look like a possibility with the Pirates and Cardinals running away with the best two records in baseball at that point. It all changed when Kris Bryant walked off the Rockies shortly after the no-no, and Jake Arrieta began his incredible stretch of dominance. To this date, I've never witnessed a pitcher so completely in his element. Every fastball had late movement, and his breaking stuff was simply unhittable. No one could touch him, and it was a guaranteed win for the Cubs whenever Arrieta took the bump that second half.
@@ -25,7 +25,7 @@ I was going to school in Los Angeles at the time, and my sister surprised me wit
 
 Having watched Kershaw the day before, I was spoiled with great pitching. We got the park shortly before first pitch, and grabbed food and drinks before settling into our seats high up behind home plate in section 1 at Dodger Stadium. Even from that vantage point, you could see Arrieta had his stuff moving all over the zone from the early innings. Things were going according to plan.
 
-![The View from Section 1.](/assets/images/2018-05-10-an-oral-history-of-my-favorite-baseball-games-part-i/02.jpg)
+![The View from Section 1.]({{ site.baseurl }}/assets/images/2018-05-10-an-oral-history-of-my-favorite-baseball-games-part-i/02.jpg)
 *The View from Section 1.*
 
 Memories are tricky to put down on paper. People tend to romanticize, leaving out the mundane in favor of the unusual. The fact of the matter was, Arrieta was being his usual second-half self, so much so that I never really looked at the scoreboard until the 5th or 6th inning. Jake had taken no-hitters into the 5th inning every other start, or so it seemed. It was then that I realized there was a prominent "0" under the Dodgers' Hit column, and my mind flirted with the possibility of history, as one tends to do around that stage of a potential no-no. I knew he had to go through the lineup at least once more, so I tried to keep a little calm.
@@ -38,7 +38,7 @@ It was around the 8th inning that Mike and Chris left their seats to find the ba
 
 Arrieta struck out the side in the 9th, and re-watching my shaky home video of the last out truly still is an out of body experience. As soon as Utley swung through strike three, I started screaming and high-fiving all the Cubs fans around me. Peter shows up in the video for a flash, looking embarrassed and happy for me at the same time. Funnily enough, that's when the memories started to come back to me as I couldn't believe I witnessed history.
 
-![Elation and Disbelief.](/assets/images/2018-05-10-an-oral-history-of-my-favorite-baseball-games-part-i/03.jpg)
+![Elation and Disbelief.]({{ site.baseurl }}/assets/images/2018-05-10-an-oral-history-of-my-favorite-baseball-games-part-i/03.jpg)
 *Elation and Disbelief.*
 
 To date, that's the most thrilling Cubs game I've ever seen *in person*. I hope you enjoyed reading a little bit about what it was like.

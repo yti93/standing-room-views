@@ -5,7 +5,7 @@ date: 2018-05-17 00:00:00 -0700
 categories: ["Quick Hits"]
 ---
 
-![Rhys Hoskins /Jay Jaffe, SI.com](/assets/images/2018-05-17-fun-with-rhys-hoskins-and-the-statcast-search-feature/01.jpg)
+![Rhys Hoskins /Jay Jaffe, SI.com]({{ site.baseurl }}/assets/images/2018-05-17-fun-with-rhys-hoskins-and-the-statcast-search-feature/01.jpg)
 
 *Rhys Hoskins /Jay Jaffe, SI.com*
 
@@ -21,10 +21,10 @@ The Statcast Search feature on Baseball Savant is incredibly powerful and allows
 
 Through May 16th, Rhys Hoskins saw 725 pitches. He's barreled up 15 of those pitches, and 9 for hits - good for a 1.2 percent rate. For reference, Trout and Judge have 15 barreled hits and Stanton has 14 for rates between 1.8 percent and 1.9 percent.
 
-![Hoskins' Barreled Balls for Hits, 2018/Baseball Savant](/assets/images/2018-05-17-fun-with-rhys-hoskins-and-the-statcast-search-feature/02.png)
+![Hoskins' Barreled Balls for Hits, 2018/Baseball Savant]({{ site.baseurl }}/assets/images/2018-05-17-fun-with-rhys-hoskins-and-the-statcast-search-feature/02.png)
 *Hoskins' Barreled Balls for Hits, 2018/Baseball Savant*
 
-![Hoskins' Barreled Hits Spray Chart/Baseball Savant](/assets/images/2018-05-17-fun-with-rhys-hoskins-and-the-statcast-search-feature/03.png)
+![Hoskins' Barreled Hits Spray Chart/Baseball Savant]({{ site.baseurl }}/assets/images/2018-05-17-fun-with-rhys-hoskins-and-the-statcast-search-feature/03.png)
 *Hoskins' Barreled Hits Spray Chart/Baseball Savant*
 
 What's interesting is every single barreled hit by Hoskins has come on a fastball that's been low in the zone and/or middle out. He's pulled seven of those nine hits down the left field line, for a total of five doubles and four home runs. Simply put, he's a dead pull fastball hitter - so it follows that he should only be thrown breaking balls to avoid big contact and consequently, big damage, right?
@@ -33,10 +33,10 @@ As a young hitter, he should be especially susceptible to breaking balls. Howeve
 
 Let's take a look at a ball Hoskins barreled up against the Rays on April 13th. This was a long out to center, but I want to dig into this at-bat as an informal predictor of why Rhys doesn't get the Javy Baez low and away breaking ball treatment.
 
-![the Rays setting up Hoskins low and away/MLB.TV](/assets/images/2018-05-17-fun-with-rhys-hoskins-and-the-statcast-search-feature/04.jpg)
+![the Rays setting up Hoskins low and away/MLB.TV]({{ site.baseurl }}/assets/images/2018-05-17-fun-with-rhys-hoskins-and-the-statcast-search-feature/04.jpg)
 *the Rays setting up Hoskins low and away/MLB.TV*
 
-![Hoskins extends on a 75mph breaking ball/MLB.TV](/assets/images/2018-05-17-fun-with-rhys-hoskins-and-the-statcast-search-feature/05.jpg)
+![Hoskins extends on a 75mph breaking ball/MLB.TV]({{ site.baseurl }}/assets/images/2018-05-17-fun-with-rhys-hoskins-and-the-statcast-search-feature/05.jpg)
 *Hoskins extends on a 75mph breaking ball/MLB.TV*
 
 Sergio Romo starts off Hoskins with a low outside changeup that just missed the corner. With the shift on, he's trying to get Rhys to turn over a low pitch and ground into an easy force with two down. He tries to go back to the same corner with what looks like a slow curve, but leaves it a little too in the zone and Hoskins launches it 408 feet, only to see it nestle into Kevin Keiermaier's glove a foot in front of the wall.

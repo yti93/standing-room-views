@@ -5,7 +5,7 @@ date: 2019-10-14 00:00:00 -0700
 categories: ["Quick Hits"]
 ---
 
-![Do you hear that? It's the sound of the Astros train chugging along [photo: LA Times]](/assets/images/2019-10-14-i-got-dreams-and-thoughts-coach/01.jpg)
+![Do you hear that? It's the sound of the Astros train chugging along [photo: LA Times]]({{ site.baseurl }}/assets/images/2019-10-14-i-got-dreams-and-thoughts-coach/01.jpg)
 
 *Do you hear that? It's the sound of the Astros train chugging along [photo: LA Times]*
 I had a long weekend full of baseball, football, and showing friends around my town, so I wasn't able to put together a detailed write-up of how glorious the Dodgers losing was, how utterly expected the Yanks/Astros ALCS matchup was but how unexpected the Rays performance was, the Cardinals knocking the Braves out in 4.05888 games...you get the point. Some of my favorite writers summarized the Division Series well, but the best piece of writing that came out last week was Rob Arthur's opus [paywall for BP] on the juiced baseball's disappearing this October like the last summer tan.
