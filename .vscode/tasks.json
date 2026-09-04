@@ -1,0 +1,64 @@
+{
+  "version": "2.0.0",
+  "inputs": [
+    {
+      "id": "postTitle",
+      "type": "promptString",
+      "description": "Title for the new post"
+    }
+  ],
+  "tasks": [
+    {
+      "label": "Blog: New Post",
+      "type": "shell",
+      "command": "scripts/new_post.sh \"${input:postTitle}\"",
+      "problemMatcher": [],
+      "detail": "Create _posts/YYYY-MM-DD-title.md with front matter, ready to publish."
+    },
+    {
+      "label": "Blog: New Draft",
+      "type": "shell",
+      "command": "scripts/new_post.sh \"${input:postTitle}\" --draft",
+      "problemMatcher": [],
+      "detail": "Create _drafts/title.md — stays off the live site until moved to _posts."
+    },
+    {
+      "label": "Blog: Install dependencies (bundle install)",
+      "type": "shell",
+      "command": "bundle install",
+      "problemMatcher": [],
+      "detail": "Run once, and again whenever the Gemfile changes."
+    },
+    {
+      "label": "Blog: Preview (jekyll serve)",
+      "type": "shell",
+      "command": "bundle exec jekyll serve --livereload",
+      "isBackground": true,
+      "problemMatcher": [],
+      "detail": "Preview published posts at http://localhost:4000 with live reload.",
+      "presentation": {
+        "reveal": "always",
+        "panel": "dedicated"
+      }
+    },
+    {
+      "label": "Blog: Preview with drafts",
+      "type": "shell",
+      "command": "bundle exec jekyll serve --livereload --drafts",
+      "isBackground": true,
+      "problemMatcher": [],
+      "detail": "Preview published posts AND anything in _drafts at http://localhost:4000.",
+      "presentation": {
+        "reveal": "always",
+        "panel": "dedicated"
+      }
+    },
+    {
+      "label": "Blog: Build (production)",
+      "type": "shell",
+      "command": "JEKYLL_ENV=production bundle exec jekyll build",
+      "problemMatcher": [],
+      "detail": "Same build GitHub Actions runs — good for catching front-matter errors before pushing."
+    }
+  ]
+}

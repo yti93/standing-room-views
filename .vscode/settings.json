@@ -1,0 +1,30 @@
+{
+  // Treat Jekyll posts/drafts as Markdown and keep build output out of the editor.
+  "files.associations": {
+    "_posts/*.md": "markdown",
+    "_drafts/*.md": "markdown"
+  },
+  "files.exclude": {
+    "_site": true,
+    ".jekyll-cache": true,
+    ".jekyll-metadata": true
+  },
+  "search.exclude": {
+    "_site": true,
+    ".jekyll-cache": true
+  },
+  "markdown.extension.toc.levels": "2..3",
+  "markdownlint.config": {
+    // Front matter and long baseball sentences trip these up; keep linting light.
+    "MD013": false,
+    "MD025": false,
+    "MD033": false
+  },
+  "cSpell.words": [
+    "Statcast",
+    "barreled",
+    "Jekyll",
+    "frontmatter",
+    "baseurl"
+  ]
+}

@@ -3,6 +3,7 @@ layout: post
 title: "The Barreled Balls Leaderboard to Start 2018 is Wacky and a Lot of Fun"
 date: 2018-04-26 00:00:00 -0700
 categories: ["Quick Hits"]
+preview: "/images/2018-04-26-the-barreled-balls-leaderboard-to-start-2018-is-wacky-and-a-lot-of-fun/01.jpg"
 ---
 
 ![Teoscar Hernandez is arguably hitting the ball harder than anyone. Chris Young/CP]({{ site.baseurl }}/assets/images/2018-04-26-the-barreled-balls-leaderboard-to-start-2018-is-wacky-and-a-lot-of-fun/01.jpg)

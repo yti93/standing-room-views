@@ -3,6 +3,7 @@ layout: post
 title: "Trevor Bauer is Putting Together A Baseball Experiment for the Ages"
 date: 2018-05-10 00:00:00 -0700
 categories: ["In-Depth Analysis"]
+preview: "/images/2018-05-10-trevor-bauer-is-putting-together-a-baseball-experiment-for-the-ages/01.jpeg"
 ---
 
 ![(Photo - USA Today, Tables and Information - Brooks Baseball.)]({{ site.baseurl }}/assets/images/2018-05-10-trevor-bauer-is-putting-together-a-baseball-experiment-for-the-ages/01.jpeg)
