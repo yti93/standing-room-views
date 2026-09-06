@@ -3,6 +3,7 @@ layout: post
 title: "There's No Crying in Baseball, but There is a Problem"
 date: 2019-10-22 00:00:00 -0700
 categories: ["Personal Essays"]
+preview: "/images/2019-10-22-theres-no-crying-in-baseball-but-there-is-a-problem/01.jpg"
 ---
 
 ![There is a distinct gloom settling in over the high-arching roof of Minute Maid Park and the World Series (Photo: USA Today)]({{ site.baseurl }}/assets/images/2019-10-22-theres-no-crying-in-baseball-but-there-is-a-problem/01.jpg)

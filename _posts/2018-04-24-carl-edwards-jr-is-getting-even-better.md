@@ -3,6 +3,7 @@ layout: post
 title: "Carl Edwards Jr. is Getting Even Better"
 date: 2018-04-24 00:00:00 -0700
 categories: ["In-Depth Analysis"]
+preview: "/images/2018-04-24-carl-edwards-jr-is-getting-even-better/01.jpg"
 ---
 
 ![Carl Edwards Jr. looks poised to have another big year./Fakepigskin.com]({{ site.baseurl }}/assets/images/2018-04-24-carl-edwards-jr-is-getting-even-better/01.jpg)

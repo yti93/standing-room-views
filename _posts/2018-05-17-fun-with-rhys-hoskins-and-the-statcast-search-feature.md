@@ -3,6 +3,7 @@ layout: post
 title: "Fun with Rhys Hoskins and the Statcast Search Feature"
 date: 2018-05-17 00:00:00 -0700
 categories: ["Quick Hits"]
+preview: "/images/2018-05-17-fun-with-rhys-hoskins-and-the-statcast-search-feature/01.jpg"
 ---
 
 ![Rhys Hoskins /Jay Jaffe, SI.com]({{ site.baseurl }}/assets/images/2018-05-17-fun-with-rhys-hoskins-and-the-statcast-search-feature/01.jpg)

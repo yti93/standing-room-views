@@ -3,6 +3,7 @@ layout: post
 title: "I'm Back (And Why I Left)"
 date: 2019-09-30 00:00:00 -0700
 categories: ["Personal Essays"]
+preview: "/images/2019-09-30-im-back-and-why-i-left/01.jpg"
 ---
 
 ![Developing my disposable camera film gave me this gem of a memory of Meiji Jingu Stadium.]({{ site.baseurl }}/assets/images/2019-09-30-im-back-and-why-i-left/01.jpg)

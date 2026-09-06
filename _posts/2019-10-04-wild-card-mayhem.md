@@ -3,6 +3,7 @@ layout: post
 title: "Wild Card Mayhem"
 date: 2019-10-04 00:00:00 -0700
 categories: ["Quick Hits"]
+preview: "/images/2019-10-04-wild-card-mayhem/01.jpg"
 ---
 
 ![Soto-mania > Sotomayor in DC (Credit: Milwaukee Journal Sentinel)]({{ site.baseurl }}/assets/images/2019-10-04-wild-card-mayhem/01.jpg)

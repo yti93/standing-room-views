@@ -3,6 +3,7 @@ layout: post
 title: "I Got Dreams (and Thoughts), Coach!"
 date: 2019-10-14 00:00:00 -0700
 categories: ["Quick Hits"]
+preview: "/images/2019-10-14-i-got-dreams-and-thoughts-coach/01.jpg"
 ---
 
 ![Do you hear that? It's the sound of the Astros train chugging along [photo: LA Times]]({{ site.baseurl }}/assets/images/2019-10-14-i-got-dreams-and-thoughts-coach/01.jpg)

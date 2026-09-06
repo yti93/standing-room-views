@@ -3,6 +3,7 @@ layout: post
 title: "What Jackie Robinson Day Means to Me"
 date: 2018-04-22 00:00:00 -0700
 categories: ["Personal Essays"]
+preview: "/images/2018-04-22-what-jackie-robinson-day-means-to-me/01.jpg"
 ---
 
 ![Jackie Robinson/KLRU-TV, Austin PBS]({{ site.baseurl }}/assets/images/2018-04-22-what-jackie-robinson-day-means-to-me/01.jpg)

@@ -1,0 +1,12 @@
+{
+  // Recommended extensions for writing and previewing Standing Room Views posts.
+  // VS Code will prompt to install these when the folder is opened.
+  "recommendations": [
+    "eliostruyf.vscode-front-matter",
+    "davidanson.vscode-markdownlint",
+    "yzhang.markdown-all-in-one",
+    "streetsidesoftware.code-spell-checker",
+    "github.vscode-github-actions",
+    "github.vscode-pull-request-github"
+  ]
+}

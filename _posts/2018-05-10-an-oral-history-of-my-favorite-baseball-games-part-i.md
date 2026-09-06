@@ -3,6 +3,7 @@ layout: post
 title: "An Oral History of My Favorite Baseball Games, Part I"
 date: 2018-05-10 00:00:00 -0700
 categories: ["Personal Essays"]
+preview: "/images/2018-05-10-an-oral-history-of-my-favorite-baseball-games-part-i/01.jpg"
 ---
 I've been very fortunate to attend a lot of baseball games in my lifetime. Granted, not as many as I would like, but that's the struggle, isn't it? 162 games for each team, and never enough time to watch as much baseball as I would like.
 

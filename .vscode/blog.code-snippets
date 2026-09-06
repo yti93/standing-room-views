@@ -1,0 +1,25 @@
+{
+  "Post front matter": {
+    "scope": "markdown",
+    "prefix": "srvpost",
+    "body": [
+      "---",
+      "layout: post",
+      "title: \"${1:Post Title}\"",
+      "date: ${2:$CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE} 00:00:00 -0700",
+      "categories: [\"${3:Quick Hits}\"]",
+      "---",
+      "",
+      "$0"
+    ],
+    "description": "Insert Standing Room Views front matter for a new post"
+  },
+  "Post image": {
+    "scope": "markdown",
+    "prefix": "srvimg",
+    "body": [
+      "![${1:alt text}]({{ site.baseurl }}/assets/images/${2:post-slug}/${3:01.jpg})"
+    ],
+    "description": "Insert a site-relative post image, matching existing posts"
+  }
+}
