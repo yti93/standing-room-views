@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "The Struggle of Giving or Taking, and Making and Doing and Being"
-description: "On consuming far more than I give, and the small ways I'm trying to put something back: writing, woodworking, vegetables, and a stray cat family."
 date: 2026-10-17T00:00:00.000Z
 tags: []
 categories: ["Personal Essays"]
