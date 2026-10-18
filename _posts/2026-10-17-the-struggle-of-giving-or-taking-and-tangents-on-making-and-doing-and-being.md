@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Struggle of Giving or Taking, and Making and Doing and Being"
+title: "The Struggle of Giving or Taking, and Tangents on Making and Doing and Being"
 date: 2026-10-17T00:00:00.000Z
 tags: []
 categories: ["Personal Essays"]
@@ -10,7 +10,7 @@ In terms of giving and taking, I am a taker. I consume voraciously. I read. I sc
 
 This is what this new world paradigm does to us - forces us to consume and consume and consume, lest we miss out, without providing time for us to catch our breath for fear of missing out.
 
-Humanity is meant to give, and historically has been meant to - to provide back into the world, to take care of others, to balance out what we take with what we give. This is something I have  struggled with recently. I feel this with everything I consume, that it was meant for me, for someone, to find a lesson worth learning in, or some nugget of information.
+Humanity is meant to give, and historically has been meant to - to provide back into the world, to take care of others, to balance out what we take with what we give. This is something I have struggled with recently. I feel this with everything I consume, that it was meant for me, for someone, to find a lesson worth learning in, or some nugget of information.
 
 I have been working on putting back out into the world rather than taking it all in for myself recently, and I'm taking a lot of baby steps, but it still feels gratifying to recognize and work on it bit by bit. 
 
@@ -30,4 +30,4 @@ It's hard! We are (and have been) conditioned to feel like what we put out into 
 
 As an aside: maybe these feelings and this opinion of mine is because I spend a lot of time in the technology world and am terminally online, but that's probably a conversation for a different time. It is just a requirement at this current moment in my life to be online (whether you agree or not is a different story as well).
 
-What I'm learning is that to keep doing what you can, for yourself and for others, no matter how big or how small takes work rather than the easy route of just taking and mindlessly consuming from the world, but recognizing it and naming it is doable. You can put stuff out into the world, give others help, support, and little things that keep your motor running. You keep showing up, you keep putting yourself into the world, you keep giving, rather than settle on taking from the world, and maybe life feels a little more manageable.
+What I'm learning is that to keep doing what you can, for yourself and for others, no matter how big or how small takes work. Rather than the easy route of just taking and mindlessly consuming from the world, recognizing being there for others and naming it is doable. You can put stuff out into the world, give others help, support, and little things that keep your motor running. You keep showing up, you keep putting yourself into the world, you keep giving, rather than settle on taking from the world, and maybe life feels a little more manageable.
